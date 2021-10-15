@@ -4,7 +4,7 @@ Automatically generated badges
 
 # How to Create a Heatmap Based on Arrays of String and Numeric Values
 
-This example shows how to use arrays of string and numeric values to create a heatmap.
+This example shows how to use string and numeric value arrays to create a heatmap.
 
 ![Resulting heatmap](Images/resulting-heatmap.png)
 
