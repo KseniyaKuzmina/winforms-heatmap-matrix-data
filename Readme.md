@@ -33,3 +33,7 @@ To load array data to a heatmap, follow the steps below:
 
 - [HeatmapControl](https://docs.devexpress.com/WindowsForms/DevExpress.XtraCharts.Heatmap.HeatmapControl?v=21.2&p=netframework)
 - [HeatmapMatrixAdapter](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.Heatmap.HeatmapMatrixAdapter?v=21.2)
+
+## More Examples
+
+- [How to Create a Heatmap Chart Based on a Data Source](https://github.com/DevExpress-Examples/winforms-heatmap-bind-to-data-source)
