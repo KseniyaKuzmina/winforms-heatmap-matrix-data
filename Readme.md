@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# How to Create a Heatmap Based on Arrays of String and Numeric Values
+# Chart for WinForms - Create a Heatmap Based on Arrays of String and Numeric Values
 
 This example shows how to use string and numeric value arrays to create a heatmap.
 
@@ -23,7 +23,7 @@ To load array data to a heatmap, follow the steps below:
 - Assign the adapter object to the [HeatmapControl.DataAdapter](https://docs.devexpress.com/WindowsForms/DevExpress.XtraCharts.Heatmap.HeatmapControl.DataAdapter) property.
 
 <!-- default file list -->
-## Files to Look At
+## Files to Review
 
 - [Form1.cs](./CS/Form1.cs) ([Form1.vb](./VB/Form1.vb))
 
